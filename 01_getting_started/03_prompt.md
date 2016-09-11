@@ -1,10 +1,10 @@
 # The Prompt
 
-The prompt is the text that appears before your cursor in the terminal.  It may contain a file path (shown in the Windows terminal below), your username on your computer, or simply the type of terminal language, like bash (shown in the Mac terminal below).
+The prompt is the text that appears before your cursor in the terminal.  It may contain a file path (Windows example in yellow), your username on your computer (Windows example in green), or simply the type of terminal language, like bash (Mac terminal example).
 
 ![Mac Terminal Prompt](./images/terminal-prompt.png)
 
-![Windows Prompt](./images/cmd-prompt.png)
+![Windows Prompt](./images/git-bash-prompt.png)
 
 When reading tutorials, like this one, we designate the prompt with a `$` before any command.  Like this:
 
