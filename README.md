@@ -15,3 +15,7 @@ Covered in this tutorial are the following commands:
 * `cp <file_to_copy> <new_file_name>`
 * `mv <old_file_name> <new_file_name>`
 * `clear`
+
+## Created by
+
+This tutorial was a joint effort between [Kelsey Hawley](https://github.com/khawley) and [Nicholle James](https://github.com/oboechick).
