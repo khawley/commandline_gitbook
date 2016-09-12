@@ -1,6 +1,8 @@
 # Command Line Tutorial
 This tutorial serves as an introduction to the Unix command line (Linux + Mac systems).  It assumes no previous knowledge or experience of the Terminal nor Command Line.
 
+For Windows users, it is recommended in [Open a Terminal](./01_getting_started/02_open_a_terminal.md) how to get and install a unix based terminal for this tutorial.
+
 Covered in this tutorial are the following commands:
 
 * `pwd`
