@@ -26,4 +26,4 @@
 + [mv](./02_commands/11_mv.md)
 + [rmdir](./02_commands/12_rmdir.md)
 + [Extras](./02_commands/13_extras.md)
-+ [Summary](./02_commands/14_command_summary.md)
++ [Command Summary](./02_commands/14_command_summary.md)
