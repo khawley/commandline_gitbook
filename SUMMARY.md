@@ -13,7 +13,7 @@
 + [Paths](./02_commands/03_paths/01_overview.md)
     * [Root](./02_commands/03_paths/02_root.md)
     * [Absolute Path](./02_commands/03_paths/03_absolute_path.md)
-    * [Relative Path](./02_commands/03_paths/04_relative_paths.md)
+    * [Relative Path](./02_commands/03_paths/04_relative_path.md)
     * [Path Shortcuts](./02_commands/03_paths/05_path_shortcuts.md)
     * [Summary](./02_commands/03_paths/06_summary.md)
 + [ls](./02_commands/04_ls.md)
