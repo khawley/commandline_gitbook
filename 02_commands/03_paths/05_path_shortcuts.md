@@ -12,12 +12,12 @@ For example, if I'm in my `/Users` directory, to get to my `temp` folder, I coul
 
 `..` is used to signify the _parent of your current directory_.  Any path built on this, says "go to the parent of my current directory as a starting point".
 
-For example, if I wanted to change to a different user, and I was starting in `/Users/temp`, I would use `../temp2`, which says go to the parent of my current directory (`/Users`), then its child (`temp2`).
+For example, if I wanted to change to a different user, and I was starting in `/Users/temp`, I would use `../temp_user2`, which says go to the parent of my current directory (`/Users`), then its child (`temp_user2`).
 
 ```
 /Users/
     temp/  <-- starting here
-    temp2/ <-- get to here
+    temp_user2/ <-- get to here
 ```
 
 ## Home Directory `~`
