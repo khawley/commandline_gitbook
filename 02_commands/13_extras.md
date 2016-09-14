@@ -24,4 +24,4 @@ Remember `~` creates an absolute path, not a relative one.  You can be in any fo
 
 ## cd
 
-If you ever type `cd` without any arguments, its actually a short itself for `cd ~`.  It will take you to your home directory by default.
+If you ever type `cd` without any arguments, its actually a shortcut itself for `cd ~`.  It will take you to your home directory by default.
