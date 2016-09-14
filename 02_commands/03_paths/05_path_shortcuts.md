@@ -6,13 +6,13 @@ In discussing _relative paths_, I showed examples that started with a`.` and `..
 
 `.` is used to signify your _current directory_.  Any path built on this means, "use my current directory as a starting point".  Usually this is implied and isn't needed, but you still need to understand what it means.
 
-For example, if I'm in my `/Users` directory, to get to my `temp` folder, I could say my next path is `temp` or `./temp`.  The first, `temp` uses an implied `.`.  The second uses as explicit `.`.  Both are _relative paths_ (relative to my `/Users` directory).
+For example, if I'm in my `/Users` directory, to get to my `temp` folder, I could say my next path is `temp` or `./temp`.  The first, `temp` uses an implied `.`.  The second uses an explicit `.`.  Both are _relative paths_ (relative to my `/Users` directory).
 
 ## The Double Dot `..`
 
 `..` is used to signify the _parent of your current directory_.  Any path built on this, says "go to the parent of my current directory as a starting point".
 
-For example, if I wanted to change to a different user, and I were starting in `/Users/temp`, I would use `../temp2`, which says go to the parent of my current directory (`/Users`), then its child (`temp2`).
+For example, if I wanted to change to a different user, and I was starting in `/Users/temp`, I would use `../temp2`, which says go to the parent of my current directory (`/Users`), then its child (`temp2`).
 
 ```
 /Users/
