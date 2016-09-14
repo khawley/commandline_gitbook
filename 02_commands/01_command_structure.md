@@ -8,7 +8,7 @@ Before we start running commands, its important to understand their basic struct
 
 The _command_ is the name of the command to run, like `pwd`.
 
-The _flags_ are optional pieces to be passed to the command and are denoted by a `-` or `--`, like `-a` or `--all`.  Each command has a preset list of flags you can use.
+The _flags_ are optional pieces to be passed to the command and are denoted by a `-` or `--`, such as `-a` or `--all`.  Each command has a preset list of flags you can use.
 
 The _arguments_ are optional pieces to be passed to the command, like flags, but are not preset values.  An example is a filename, like `readme.txt`.
 
