@@ -27,3 +27,7 @@
 + [rmdir](./02_commands/12_rmdir.md)
 + [Extras](./02_commands/13_extras.md)
 + [Command Summary](./02_commands/14_command_summary.md)
+
+## Next Steps
+
+- [Git Tutorial](./03_next_steps.md#git_tutorial)
