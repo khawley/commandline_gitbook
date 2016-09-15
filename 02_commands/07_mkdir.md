@@ -27,7 +27,6 @@ Now, lets create a nested directory, and `cd` into it.
 
 ```
 $ mkdir git_tutorial/nested
-
 $ cd git_tutorial/nested
 ```
 
